@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to divygenome
 
 I am Divya. Welcome to my github page. I'm a PhD student who is studying Drosophila to learn and understand the genome evolution. I'll be sharing my knowledge and experience from the learning outcomes of my PhD. I hope to take this pages in the future to make a handful of resources for PhD students. 
 
